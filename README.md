@@ -21,9 +21,9 @@ with the goal of generating multiple obstacles to challenge the flight of Unmann
  
 ## Authors
 
-* **Paolo Arcaini**
-     * Email: arcaini@nii.ac.jp
-     * Affiliation: National Institute of Informatics, Japan
+* **Shuncheng Tang**
+     * Email: scttt@mail.ustc.edu.cn
+     * Affiliation: University of Science and Technology of China, China
 
 * **Zhenya Zhang**
      * Email: zhang@ait.kyushu-u.ac.jp
@@ -33,6 +33,6 @@ with the goal of generating multiple obstacles to challenge the flight of Unmann
      * Email: ahmet@shibaura-it.ac.jp
      * Affiliation: Shibaura Institute of Technology, Japan
  
-* **Shuncheng Tang**
-     * Email: scttt@mail.ustc.edu.cn
-     * Affiliation: University of Science and Technology of China, China
+* **Paolo Arcaini**
+     * Email: arcaini@nii.ac.jp
+     * Affiliation: National Institute of Informatics, Japan
