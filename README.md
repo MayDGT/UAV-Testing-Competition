@@ -21,7 +21,7 @@ with the goal of generating multiple obstacles to challenge the flight of Unmann
 
 ## Description of the Algorithm
 
-Overall, our algorithm iteratively simulates the UAV and place obstacles on the trajectory of the UAV to block its way. Specifically, we manage our obstacle generation by using Monte-Carlo tree search (MCTS), in order to balance the exploration and exploitation during the search of the combinations of obstacles that can cause failures of the UAV. The psuedo code of our algorithm is presented as follows.
+Overall, our algorithm iteratively simulates the UAV and place obstacles on the trajectories of the UAV to block its way. Specifically, we manage our obstacle generation by using Monte-Carlo tree search (MCTS), in order to balance the exploration and exploitation during the search of the combinations of obstacles that can cause failures of the UAV. The psuedo code of our algorithm is presented as follows.
 
 <img src="/docs/algorithm.png" alt="our MCTS-based search algorithm" width="600"/>
 
