@@ -1,7 +1,6 @@
 # UAV-Testing-Competition
 ## Overview
-This project is a fork of [skhatiri/UAV-Testing-Competition](https://github.com/skhatiri/UAV-Testing-Competition). It is an implementation of the **Monte Carlo Tree Search** (MCTS) algorithm 
-with the goal of generating multiple obstacles to challenge the flight of Unmanned Aerial Vehicles (UAVs).
+This is the implementation of our [UAV-Testing-Competition](https://github.com/skhatiri/UAV-Testing-Competition) tool called **TUMB** (**T**esting of **U**AVs by **M**CTS and Path **B**locking). Generally, it adopts Monte Carlo Tree Search (MCTS) algorithm to place obstacles on the trajectories of Unmanned Aerial Vehicles (UAVs) to challenge its flight. A detailed description of the algorithm can be found [here](#description-of-the-algorithm).
 
 ## Getting Started
 
